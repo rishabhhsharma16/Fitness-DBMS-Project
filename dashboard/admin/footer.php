@@ -1,0 +1,1 @@
+<footer class="main" style="text-align: "> <strong></strong></footer> 
